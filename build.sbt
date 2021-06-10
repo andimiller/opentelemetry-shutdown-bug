@@ -1,4 +1,4 @@
-name := "opentracing-shutdown-bug"
+name := "opentelemetry-shutdown-bug"
 
 version := "0.1"
 
